@@ -1,0 +1,11 @@
+road,defect,degree,extent
+MonteBawah,potholes,2,3
+MonteBawah,corrugations,4,4
+MonteBawah,rutting,4,4
+MonteBawah,loose_material,4,4
+MonteBawah,stoniness,3,3
+Spanyol,potholes,2,2
+Spanyol,corrugations,4,4
+Spanyol,rutting,4,4
+Spanyol,loose_material,4,4
+Spanyol,stoniness,3,3
